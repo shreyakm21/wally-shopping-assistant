@@ -1,0 +1,20 @@
+[
+  {
+    "name": "boAt Xtend Smartwatch",
+    "category": "smartwatch",
+    "price": 1999,
+    "features": ["heart rate monitor", "Alexa built-in"]
+  },
+  {
+    "name": "Noise ColorFit Pulse",
+    "category": "smartwatch",
+    "price": 1499,
+    "features": ["SpO2 monitor", "long battery"]
+  },
+  {
+    "name": "JBL Wireless Earbuds",
+    "category": "earphones",
+    "price": 2999,
+    "features": ["waterproof", "bass boost"]
+  }
+]

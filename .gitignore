@@ -1,0 +1,8 @@
+# Ignore node_modules and .env in both frontend and backend
+node_modules/
+.env
+frontend/node_modules/
+backend/node_modules/
+backend/.env
+.DS_Store
+dist/
