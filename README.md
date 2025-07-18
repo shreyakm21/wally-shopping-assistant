@@ -17,6 +17,18 @@
 - **Backend**: Node.js, Express, Cohere AI API (for embeddings)
 - **Storage**: localStorage (frontend), `categoryEmbeddings.json` (backend)
 
+## 🔮 Future Scope
+
+Wally has been designed with extensibility in mind. Planned future enhancements include:
+
+- 📦 **Live Product Search Integration** – Connect Wally with real-time Walmart APIs or affiliate product APIs to fetch actual product listings.
+- 🧑‍🤝‍🧑 **User Accounts** – Allow users to log in and save carts, comparisons, and prompt histories across devices.
+- 🗣️ **Voice-Based Queries** – Enable microphone input for hands-free product discovery.
+- 📱 **PWA Support** – Make Wally installable as a Progressive Web App for a native mobile experience.
+- ✨ **AI Image Shopping** – Let users upload product images (or moodboards) to get intelligent product suggestions.
+
+These features are modular and can be added iteratively for deployment-ready scalability.
+
 ## Made with ❤️ for Walmart Sparkathon
 
 🎥 [Watch the full demo on YouTube] (https://youtu.be/2T-aeaSCeiM)
